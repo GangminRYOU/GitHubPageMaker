@@ -1,0 +1,20 @@
+c :
+  name: c
+  description: False
+  cover: assets/built/images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg
+data Structure :
+  name: data_structure
+  description: False
+  cover: assets/built/images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg
+algorithm :
+  name: algorithm
+  description: False
+  cover: assets/built/images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg
+os :
+  name: os
+  description: False
+  cover: assets/built/images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg
+project :
+  name: project
+  description: False
+  cover: assets/built/images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg
